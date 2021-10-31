@@ -1,6 +1,6 @@
-# 217. Contains Duplicate
+# 217. Contains Duplicate 
 
-<h4 style="color: green;">Easy</h4>
+![#00A300](https://via.placeholder.com/30/00A300/000000?text=+)
 
 Given an integer array `nums`, return `true` if any value appears **at least twice** in the array, and return `false` if every element is distinct.
 
