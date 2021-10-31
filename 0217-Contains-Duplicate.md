@@ -1,5 +1,7 @@
 # 217. Contains Duplicate
 
+<h4 style="color: green;">Easy</h4>
+
 Given an integer array `nums`, return `true` if any value appears **at least twice** in the array, and return `false` if every element is distinct.
 
 **Example 1:**
