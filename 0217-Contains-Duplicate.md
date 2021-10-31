@@ -1,5 +1,18 @@
 # 217. Contains Duplicate ![#00A300](https://via.placeholder.com/30/00A300/000000?text=+)
 
+<details><summary>Related Topics</summary>
+<p>
+
+`Array` `Hash Table` `Sorting`
+
+</p>
+</details>
+
+
+
+
+
+
 Given an integer array `nums`, return `true` if any value appears **at least twice** in the array, and return `false` if every element is distinct.
 
 **Example 1:**
