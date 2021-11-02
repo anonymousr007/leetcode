@@ -1,6 +1,6 @@
 # Leetcode
 
-## Languages 
+## Languages
 
 * C
 * C++
