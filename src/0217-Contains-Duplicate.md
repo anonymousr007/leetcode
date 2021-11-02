@@ -1,14 +1,10 @@
 # 217. Contains Duplicate ![#00A300](https://via.placeholder.com/30/00A300/000000?text=+)
 
-<details><summary>Related Topics</summary>
-<p>
-  
-`Array` `Hash Table` `Sorting`
-  
-</p>
-</details>
+Related Topics
+: `Array` `Hash Table` `Sorting`
 
-Given an integer array `nums`, return `true` if any value appears **at least twice** in the array, and return `false` if every element is distinct.
+Given an integer array `nums`, return `true` if any value appears
+**at least twice** in the array, and return `false` if every element is distinct.
 
 **Example 1:**
 
@@ -33,8 +29,8 @@ Output: true
 
 **Constraints:**
 
-- 1 <= nums.length <= 10<sup>5</sup>
-- -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
+- 1 <= nums.length <= 10^5
+- -10^9 <= nums[i] <= 10^9
 
 ## C
 
